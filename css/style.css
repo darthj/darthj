@@ -14,11 +14,20 @@
 
 .bg-black {
   color: #fff;
-  background: #000;
+  background: #011f4b;
 }
 
 @media (min-width: 1199px) {
   .port-item {
     padding: 3em !important;
   }
+}
+.bg-blue {
+  background-color: #005b96;
+}
+.bg-light-blue {
+  background-color: #6497b1;
+}
+.bg-smoke {
+  background-color: #b3cde0;
 }
